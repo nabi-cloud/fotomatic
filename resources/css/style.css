@@ -149,7 +149,7 @@ header .button {
 /* Sign Up Section */
 
 #sign-up-section {
-  background-image: url('/resources/images/banner-landingpage.jpg');
+  background-image: url('../images/banner-landingpage.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
