@@ -37,3 +37,7 @@ Working with Chrome DevTools was really helpful to identify problematic areas th
 Adhering to the provided design specs taught me the significance of paying attention to even the smallest design details. Proper font choices, color combinations, and spacing are crucial for creating a professional-looking website. This project is a great training for me as a developer because  in real-world scenarios, developers are often presented with designs crafted by UI/UX designers, who meticulously research and cater to user-centered needs. 
 
 Completing this project enabled me to accurately translate designs into code. This close alignment between the design and implementation ensures that the final product aligns perfectly with the designer's vision, fostering effective collaboration.
+
+<br>
+
+@Apr 2023
